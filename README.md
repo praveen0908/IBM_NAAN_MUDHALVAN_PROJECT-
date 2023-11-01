@@ -42,9 +42,10 @@ Before running the code for this project, you should have the following librarie
 
 You can install these libraries using pip:
 
-```bash
-pip install pandas numpy seaborn matplotlib plotly statsmodels 
 
+```bash 
+pip install pandas numpy seaborn matplotlib plotly statsmodels.
+```
 
 ## Getting Started
 
